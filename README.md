@@ -23,5 +23,3 @@
 </div>
 
 ###
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg
