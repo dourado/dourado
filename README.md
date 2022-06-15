@@ -1,4 +1,9 @@
 <div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/hello-friend.gif"  />
+</div>
+
+###
+<div align="center">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   </a>
