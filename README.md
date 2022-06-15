@@ -38,7 +38,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
+  <img height="100" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
 </div>
 
 ###
