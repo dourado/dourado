@@ -29,15 +29,15 @@
 </div>
 
 ###
-<img href="https://github.com/lucascdourado/lucascdourado/blob/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/lucascdourado/lucascdourado/blob/output/snake.svg)
 
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/lucascdourado/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/dourado.lcs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
