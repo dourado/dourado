@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://aws.amazon.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   </a>
   <a href="https://www.gnu.org/software/bash" target="_blank">
