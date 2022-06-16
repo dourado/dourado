@@ -29,8 +29,8 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=lucascdourado" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&username=lucascdourado" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=lucascdourado" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&username=lucascdourado" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -38,7 +38,7 @@
 
 ###
 <div align="center">
-  <img height="150" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
+  <img height="125" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
 </div>
 
 ###
