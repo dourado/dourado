@@ -46,4 +46,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&"  />
 </div>
 
+![Profile views](https://gpvc.arturio.dev/lucascdourado)
 ###
