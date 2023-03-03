@@ -34,7 +34,7 @@
 </div>
 
 ###
-![Snake Animation](https://github.com/lucascdourado/lucascdourado/blob/output/snake.svg){align=center}
+![Snake Animation](https://github.com/lucascdourado/lucascdourado/blob/output/snake.svg)
 
 ###
 <div align="center">
