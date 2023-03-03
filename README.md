@@ -45,5 +45,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&"  />
 </div>
-
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 ###
