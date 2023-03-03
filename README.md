@@ -43,14 +43,14 @@
 
 ###
 <div align="center">
-  <a href="https://www.flashapp.com.br" target="_blank">
-    <img height="50" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/flash.png"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&"  />
 </div>
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&"  />
+  <a href="https://www.flashapp.com.br" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/flash.png"  />
+  </a>
 </div>
 
 ###
