@@ -47,4 +47,3 @@
 </div>
 
 ###
-[![GitHub contributors](https://img.shields.io/github/contributors/lucascdourado/badges.svg)](https://GitHub.com/lucascdourado/badges/graphs/contributors/)
