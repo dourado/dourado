@@ -5,7 +5,7 @@
 ###
 <div align="center">
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+    <img src="https://icons8.com/icon/33039/amazon-web-services" height="40" width="52" alt="aws logo"  />
   </a>
   <a href="https://www.gnu.org/software/bash" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
