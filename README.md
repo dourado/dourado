@@ -48,7 +48,7 @@
 
 ###
 <div align="center">
-  <a href="https://stackoverflow.com/users/15846522/dourado"
+  <a href="https://stackoverflow.com/users/15846522/dourado" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"  />
   </a>
   <a href="https://www.flashapp.com.br" target="_blank">
