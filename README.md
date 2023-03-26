@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="40" width="364" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/hello-friend-png.gif"  />
+  <img height="40" width="364" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/hello-friend.gif"  />
 </div>
 
 ###
