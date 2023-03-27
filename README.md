@@ -7,23 +7,23 @@
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" height="40" width="40" alt="aws logo"  />
   </a>
-  <a href="https://www.terraform.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"  />
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  </a>
   <a href="https://www.gnu.org/software/bash" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <a>  
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
-  </a>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   </a>
   <a href="https://git-scm.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  </a>
+  <a href="https://www.terraform.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"  />
   </a>
 </div>
 
