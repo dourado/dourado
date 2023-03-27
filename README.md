@@ -43,7 +43,7 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"  />
 </div>
 
 ###
