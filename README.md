@@ -1,5 +1,5 @@
 <div align="center">
-  <p>ゴールデン</p>
+  <h1>ゴールデン</h1>
 </div>
 
 ###
