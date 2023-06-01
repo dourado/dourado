@@ -43,7 +43,7 @@
 
 ###
 <div align="center">
-  <img height="130" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
+  <img height="150" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
 </div>
 
 ###
