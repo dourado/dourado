@@ -43,7 +43,12 @@
 
 ###
 <div align="center">
-  <img height="125" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
+  <img height="130" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&hide_title=true&langs_count=10" width="300" alt="wakatime graph"  />
 </div>
 
 ###
@@ -59,11 +64,6 @@
   <a href="https://www.flashapp.com.br" target="_blank">
     <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/flash.png"  />
   </a>
-</div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&hide_title=true&langs_count=10" width="300" alt="wakatime graph"  />
 </div>
 
 ###
