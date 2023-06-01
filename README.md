@@ -53,17 +53,17 @@
 
 ###
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"  />
+</div>
+
+###
+<div align="center">
   <a href="https://stackoverflow.com/users/15846522/dourado" target="_blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"  />
   </a>
   <a href="https://www.flashapp.com.br" target="_blank">
     <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/flash.png"  />
   </a>
-</div>
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"  />
 </div>
 
 ###
