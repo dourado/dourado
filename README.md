@@ -53,7 +53,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=Harlok&layout=compact&hide_title=true&langs_count=10&range=all_time" width="300" alt="wakatime graph"  />
+  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=Harlok&layout=compact&hide_title=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"  />
 </div>
 
 ###
