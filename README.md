@@ -61,6 +61,6 @@
   </a>
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dourado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Dourado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dourado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 ###
