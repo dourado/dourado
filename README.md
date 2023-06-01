@@ -61,6 +61,9 @@
   </a>
 </div>
 
-[![Dourado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dourado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
+###
+<div align="center">
+  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&hide_title=true&langs_count=10" width="300" alt="wakatime graph"  />
+</div>
+
 ###
