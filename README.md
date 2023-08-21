@@ -48,7 +48,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&langs_count=10&range=all_time" width="300" alt="wakatime graph"  />
+  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&langs_count=10&range=all_time" width="305" alt="wakatime graph"  />
 </div>
 
 ###
