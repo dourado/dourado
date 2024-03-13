@@ -65,7 +65,7 @@
     <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/elvenworks.png"  />
   </a>
   <a href="https://www.autorabit.com/" target="_blank">
-    <img height="40" src="ttps://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/autorabit.png"  />
+    <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/autorabit.png"  />
   </a>
 </div>
 
