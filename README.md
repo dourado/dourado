@@ -44,7 +44,7 @@
 ###
 <div align="center">
   <img height="170" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"/>
-  <img height="150" width="500" valign="center" href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="_blank" src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  <img height="160" width="500" valign="center" href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="_blank" src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 </div>
 
 ###
