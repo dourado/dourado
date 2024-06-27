@@ -9,25 +9,25 @@
 
 ###
 <div align="center">
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://aws.amazon.com" target="__blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" height="40" width="40" alt="aws logo"  />
   </a>
-  <a href="https://www.gnu.org/software/bash" target="_blank">
+  <a href="https://www.gnu.org/software/bash" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <a>  
-  <a href="https://www.docker.com" target="_blank">
+  <a href="https://www.docker.com" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   </a>
-  <a href="https://git-scm.com" target="_blank">
+  <a href="https://git-scm.com" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   </a>
-  <a href="https://kubernetes.io" target="_blank">
+  <a href="https://kubernetes.io" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
   </a>
-  <a href="https://www.linux.org" target="_blank">
+  <a href="https://www.linux.org" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   </a>
-  <a href="https://www.terraform.io" target="_blank">
+  <a href="https://www.terraform.io" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"  />
   </a>
 </div>
@@ -44,8 +44,8 @@
 ###
 <div align="center">
   <img height="170" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif"/>
-  <a href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="_blank">
-    <img height="160" width="500" valign="center"  src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  <a href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="__blank">
+    <img height="160" width="500" valign="center" src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
   </a>
 </div>
 
@@ -56,25 +56,20 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"  />
-</div>
-
-###
-<div align="center">
-  <a href="https://stackoverflow.com/users/15846522/dourado" target="_blank">
+  <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"  />
   </a>
-  <a href="https://elven.works/en/home/" target="_blank">
+  <a href="https://elven.works/en/home/" target="__blank">
     <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/elvenworks.png"  />
   </a>
-  <a href="https://www.autorabit.com/" target="_blank">
+  <a href="https://www.autorabit.com/" target="__blank">
     <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/autorabit.png"  />
   </a>
 </div>
 
 ###
 <div align="center">
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"  />
 </div>
 
 ###
