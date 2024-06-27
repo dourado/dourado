@@ -4,38 +4,38 @@
 
 ###
 <div align="center">
-  <img height="40" width="364" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/hello-friend.gif"  />
+  <img height="40" width="364" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/hello-friend.gif"/>
 </div>
 
 ###
 <div align="center">
   <a href="https://aws.amazon.com" target="__blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" height="40" width="40" alt="aws logo"  />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" height="40" width="40" alt="aws logo"/>
   </a>
   <a href="https://www.gnu.org/software/bash" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"/>
   <a>  
   <a href="https://www.docker.com" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"/>
   </a>
   <a href="https://git-scm.com" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
   </a>
   <a href="https://kubernetes.io" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"/>
   </a>
   <a href="https://www.linux.org" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
   </a>
   <a href="https://www.terraform.io" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"/>
   </a>
 </div>
-
+****
 ###
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=lucascdourado" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph" />
+  <img src="https://github-readme-stats-dourado.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=lucascdourado" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
 </div>
 
 ###
@@ -51,25 +51,28 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=java&username=lucascdourado" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-dourado.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=java&username=lucascdourado" height="150" alt="languages graph"/>
 </div>
 
 ###
 <div align="center">
+  <a href="https://golden-today.vercel.app" target="__blank">
+    <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/today.png">
+  </a>
   <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"  />
+    <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"/>
   </a>
   <a href="https://elven.works/en/home/" target="__blank">
-    <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/elvenworks.png"  />
+    <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/elvenworks.png"/>
   </a>
   <a href="https://www.autorabit.com/" target="__blank">
-    <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/autorabit.png"  />
+    <img height="40" src="https://raw.githubusercontent.com/lucascdourado/lucascdourado/master/src/autorabit.png"/>
   </a>
 </div>
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"/>
 </div>
 
 ###
