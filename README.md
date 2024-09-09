@@ -21,17 +21,20 @@
   <a href="https://git-scm.com" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
   </a>
+  <a href="https://grafana.com" target="__blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" width="52" alt="git logo"/>
+  </a>
   <a href="https://kubernetes.io" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"/>
   </a>
   <a href="https://www.linux.org" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
   </a>
-  <a href="https://www.terraform.io" target="__blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"/>
-  </a>
   <a href="https://docs.python.org/3" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="linux logo"/>
+  </a>
+  <a href="https://www.terraform.io" target="__blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"/>
   </a>
 </div>
 
