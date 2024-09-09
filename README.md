@@ -30,6 +30,9 @@
   <a href="https://www.terraform.io" target="__blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="linux logo"/>
   </a>
+  <a href="https://docs.python.org/3" target="__blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="linux logo"/>
+  </a>
 </div>
 
 <div align="center">
