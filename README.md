@@ -68,6 +68,8 @@
     <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"/>
   </a>
 </div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c89bf43a-721b-477e-98cc-40454e5aad71" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ###
 <div align="center">
