@@ -67,9 +67,10 @@
   <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"/>
   </a>
+  <a href="https://www.credly.com/badges/c89bf43a-721b-477e-98cc-40454e5aad71/embedded" target="__blank">
+    <img height="40" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+  </a>
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c89bf43a-721b-477e-98cc-40454e5aad71" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ###
 <div align="center">
