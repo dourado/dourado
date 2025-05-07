@@ -16,12 +16,16 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-          USERNAME: '${{ github.repository_owner }}'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
             target_branch: output
             build_dir: profile-3d-contrib
+            commit_message: "Update 3D Contrib animation"
+            keep_history: true
+            allow_empty_commit: false
+            verbose: true
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
