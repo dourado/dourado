@@ -24,24 +24,24 @@ jobs:
         uses: actions/checkout@v2
         with:
             ref: output
-            path: profile-3d-contrib
+            path: output-branch
                 # Update just the profile-3d directory
       - name: Update profile-3d directory
         run: |
             # Create profile-3d directory if it doesn't exist
-            mkdir -p profile-3d-contrib/profile-3d
+            mkdir -p output-branch/profile-3d
             
             # Copy newly generated files to the existing profile-3d directory
-            cp -r profile-3d-contrib/* profile-3d-contrib/profile-3d/
+            cp -r profile-3d-contrib/* output-branch/profile-3d/
             
             # Verify the files are there
             echo "Contents of profile-3d directory:"
-            ls -la existing-output/profile-3d/
+            ls -la output-branch/profile-3d/
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
             target_branch: output
-            build_dir: profile-3d-contrib
+            build_dir: output-branch
             commit_message: "Update 3D Contrib animation"
             keep_history: true
         env:
