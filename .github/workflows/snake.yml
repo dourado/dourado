@@ -9,7 +9,7 @@ on:
     - main
 
 jobs:
-  generate:
+  generate-github-snake-contrib:
     runs-on: ubuntu-latest
     steps:
       - name: generate snake.svg
