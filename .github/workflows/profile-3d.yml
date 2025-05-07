@@ -18,12 +18,10 @@ jobs:
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
           USERNAME: '${{ github.repository_owner }}'
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git fetch origin
-          git checkout output
-          git add -A .
-          git commit -m "generated"
-          git push -u origin output
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+            target_branch: output
+            build_dir: profile-3d-contrib
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
