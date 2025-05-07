@@ -43,7 +43,6 @@
   <img src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="150" alt="stats graph"/>
 </div>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dourado/dourado/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dourado/dourado/output/snake.svg">
