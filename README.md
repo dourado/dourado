@@ -4,7 +4,7 @@
 
 ###
 <div align="center">
-  <img height="40" width="364" src="https://raw.githubusercontent.com/dourado/dourado/master/src/hello-friend.gif"/>
+  <img height="40" width="364" src="https://raw.githubusercontent.com/dourado/dourado/main/src/hello-friend.gif"/>
 </div>
 
 ###
@@ -39,12 +39,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=dourado" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
+  <img src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="150" alt="stats graph"/>
 </div>
 
 ###
-![Snake Animation](https://github.com/dourado/dourado/blob/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/dourado/dourado/output/snake.svg)
 
 ###
 <div align="center">
@@ -62,7 +62,7 @@
 ###
 <div align="center">
   <a href="https://golden-today.vercel.app" target="__blank">
-    <img height="40" src="https://raw.githubusercontent.com/dourado/dourado/master/src/today.png">
+    <img height="40" src="https://raw.githubusercontent.com/dourado/dourado/main/src/today.png">
   </a>
   <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"/>
