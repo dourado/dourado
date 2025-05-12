@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
-  <img src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"/>
 </div>
 
 <picture>
