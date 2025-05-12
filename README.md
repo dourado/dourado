@@ -59,7 +59,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=java&username=dourado" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=java" height="150" alt="languages graph"/>
 </div>
 
 ###
