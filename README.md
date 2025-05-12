@@ -81,4 +81,3 @@
 </div>
 
 ###
-![profile-3d](https://raw.githubusercontent.com/dourado/dourado/output/profile-3d/profile-night-rainbow.svg)
