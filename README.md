@@ -67,7 +67,8 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img 
       src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time" 
-      height="75" 
+      height="150"
+      width="200"
       alt="wakatime graph">
   </picture>
   <picture>
@@ -79,7 +80,8 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img
       src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
-      height="75"
+      height="150"
+      width="200"
       alt="stats graph">
   </picture>
 </div>
