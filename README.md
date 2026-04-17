@@ -47,7 +47,7 @@
     <img
       src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
       height="150"
-      width="375"
+      width="425"
       alt="stats graph">
   </picture>
 </div>
