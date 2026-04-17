@@ -98,7 +98,7 @@
 
 ###
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
     <tr>
       <td valign="middle">
         <img height="170" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif">
