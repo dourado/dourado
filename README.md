@@ -12,10 +12,10 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform&theme=dark"
+      srcset="https://skillicons.dev/icons?i=aws%2Cbash%2Cdocker%2Cgit%2Cgrafana%2Ckubernetes%2Clinux%2Cpython%2Cterraform&theme=dark"
       media="(prefers-color-scheme: dark)">
     <source
-      srcset="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform&theme=light"
+      srcset="https://skillicons.dev/icons?i=aws%2Cbash%2Cdocker%2Cgit%2Cgrafana%2Ckubernetes%2Clinux%2Cpython%2Cterraform&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img 
       src="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform" 
