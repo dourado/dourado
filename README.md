@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
   <picture>
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&amp;theme=dracula_dark&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;text_bold=false&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;show=reviews,prs_merged_percentage&amp;hide=issues,stars,contribs&amp;number_precision=1"
       media="(prefers-color-scheme: dark)"
     />
     <img
