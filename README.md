@@ -117,7 +117,9 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img 
       src="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true"
-      height="150" alt="languages graph">
+      height="150" 
+      width="400"
+      alt="languages graph">
   </picture>
 </div>
 
