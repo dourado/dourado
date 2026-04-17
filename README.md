@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <picture>
+  <picture class="readme-wakatime-picture" style="display:block; margin:0 auto; max-width:100%;">
     <source
       srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time"
       media="(prefers-color-scheme: dark)">
@@ -37,7 +37,7 @@
       width="400"
       alt="wakatime graph">
   </picture>
-  <picture>
+  <picture class="readme-wakatime-picture" style="display:block; margin:0 auto; max-width:100%;">
     <source
       srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1"
       media="(prefers-color-scheme: dark)">
