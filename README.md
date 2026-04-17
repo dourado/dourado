@@ -10,7 +10,17 @@
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform" alt="tech stack">
+  <picture>
+    <source
+      srcset="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform&theme=dark"
+      media="(prefers-color-scheme: dark)">
+    <source
+      srcset="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img 
+      src="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform" 
+      alt="tech stack">
+  </picture>
 </div>
 
 <div align="center">
