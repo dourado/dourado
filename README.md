@@ -40,7 +40,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time" 
+      height="150" 
+      alt="wakatime graph"
+    />
+  </picture>
   <picture>
     <source
       srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1"
