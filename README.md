@@ -34,7 +34,7 @@
     <img 
       src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time" 
       height="150"
-      width="425"
+      width="400"
       alt="wakatime graph">
   </picture>
   <picture>
