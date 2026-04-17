@@ -46,9 +46,13 @@
       srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1"
       media="(prefers-color-scheme: dark)"
     />
+    <source
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
     <img
       src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
-      height="200"
+      height="150"
       alt="stats graph"
     />
   </picture>
