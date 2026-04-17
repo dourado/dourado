@@ -41,16 +41,25 @@
 
 <div align="center">
   <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
-  <img
-    src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1#gh-dark-mode-only"
-    height="150"
-    alt="stats graph"
-  />
-  <img
-    src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1#gh-light-mode-only"
-    height="150"
-    alt="stats graph"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
+      media="(prefers-color-scheme: dark)"
+      height="150"
+      alt="stats graph"
+    />
+    <source
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height="150"
+      alt="stats graph"
+    />
+    <img
+      src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
+      height="150"
+      alt="stats graph"
+    />
+  </picture>
 </div>
 
 <picture>
