@@ -98,18 +98,10 @@
 
 ###
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
-    <tr>
-      <td valign="middle">
-        <img height="170" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif">
-      </td>
-      <td valign="middle">
-        <a href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="__blank">
-          <img height="170" src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&theme=novatorem">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img height="170" align="middle" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif">
+  <a href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="__blank">
+    <img height="170" align="middle" src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&theme=novatorem">
+  </a>
 </div>
 
 ###
