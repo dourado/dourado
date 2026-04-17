@@ -9,7 +9,9 @@
 </div>
 
 ###
-<div align="center"><a href="https://aws.amazon.com" target="__blank"><img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" height="40" width="40" alt="aws logo"></a><a href="https://www.gnu.org/software/bash" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"></a><a href="https://www.docker.com" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"></a><a href="https://git-scm.com" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"></a><a href="https://grafana.com" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" width="52" alt="grafana logo"></a><a href="https://kubernetes.io" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"></a><a href="https://www.linux.org" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"></a><a href="https://docs.python.org/3" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"></a><a href="https://www.terraform.io" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="terraform logo"></a></div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,grafana,kubernetes,linux,python,terraform" alt="tech stack">
+</div>
 
 <div align="center">
   <picture>
