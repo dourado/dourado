@@ -41,10 +41,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=10&range=all_time" height="150" alt="wakatime graph"/>
-  <!-- Dark mode -->
-  <img src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&bg_color=00000000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars&number_precision=1#gh-dark-mode-only" height="150" alt="stats graph"/>
-  <!-- Light mode -->
-  <img src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars&number_precision=1#gh-light-mode-only" height="150" alt="stats graph"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&bg_color=00000000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars&number_precision=1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars&number_precision=1"
+      height="150"
+      alt="stats graph"
+    />
+  </picture>
 </div>
 
 <picture>
