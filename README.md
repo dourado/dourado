@@ -58,7 +58,7 @@
     media="(prefers-color-scheme: dark)">
   <source 
     srcset="https://raw.githubusercontent.com/dourado/dourado/output/snake.svg"
-    media="(prefers-color-scheme: light)">
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
   <img 
     src="https://raw.githubusercontent.com/dourado/dourado/output/snake.svg"
     alt="github contribution grid snake animation">
@@ -69,7 +69,7 @@
     media="(prefers-color-scheme: dark)">
   <source 
     srcset="https://raw.githubusercontent.com/dourado/dourado/output/snake-dracula.svg"
-    media="(prefers-color-scheme: light)">
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
   <img 
     src="https://raw.githubusercontent.com/dourado/dourado/output/snake-dracula.svg"
     alt="github contribution grid snake animation">
