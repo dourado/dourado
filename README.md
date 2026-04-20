@@ -63,6 +63,17 @@
     src="https://raw.githubusercontent.com/dourado/dourado/output/snake.svg"
     alt="github contribution grid snake animation">
 </picture>
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/dourado/dourado/output/snake-dracula-dark.svg"
+    media="(prefers-color-scheme: dark)">
+  <source 
+    srcset="https://raw.githubusercontent.com/dourado/dourado/output/snake-dracula.svg"
+    media="(prefers-color-scheme: light)">
+  <img 
+    src="https://raw.githubusercontent.com/dourado/dourado/output/snake-dracula.svg"
+    alt="github contribution grid snake animation">
+</picture>
 
 ###
 <div align="center">
