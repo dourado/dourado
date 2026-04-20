@@ -19,6 +19,7 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/snake-dracula-old.svg?color_snake=#ff79c6&color_dots=#ebedf0,#c8d1fa,#a5b4fc,#8b5cf6,#bd93f9
             dist/snake-dracula.svg?color_snake=#ff79c6&color_dots=#282a36,#44475a,#6272a4,#8be9fd,#bd93f9
             dist/snake-dracula-dark.svg?color_snake=#bd93f9&color_dots=#282a36,#44475a,#6272a4,#8be9fd,#bd93f9
             dist/snake-dracula-snake-purple.svg?color_snake=#bd93f9&color_dots=#282a36,#44475a,#6272a4,#8be9fd,#ff79c6
