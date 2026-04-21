@@ -97,9 +97,17 @@
       height="40">
   </a>
   <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
-    <img 
-      src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"
-      height="40">
+    <picture>
+      <source
+        srcset="https://skillicons.dev/icons?i=stackoverflow&theme=dark"
+        media="(prefers-color-scheme: dark)">
+      <source
+        srcset="https://skillicons.dev/icons?i=stackoverflow&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <img 
+        src="https://skillicons.dev/icons?i=stackoverflow" 
+        height="40">
+    </picture>
   </a>
   <a href="https://www.credly.com/badges/c89bf43a-721b-477e-98cc-40454e5aad71/embedded" target="__blank">
     <img 
