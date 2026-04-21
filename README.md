@@ -92,9 +92,16 @@
 ###
 <div align="center">
   <a href="https://golden-today.vercel.app" target="__blank">
-    <img 
-      src="https://raw.githubusercontent.com/dourado/dourado/main/src/today.png"
-      height="40">
+    <picture>
+      <source
+        srcset="https://raw.githubusercontent.com/dourado/dourado/main/src/today-white.png"
+        media="(prefers-color-scheme: dark)">
+      <source
+        srcset="https://raw.githubusercontent.com/dourado/dourado/main/src/today.png"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <img 
+        src="https://raw.githubusercontent.com/dourado/dourado/main/src/today.png"
+        height="40">
   </a>
   <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
     <picture>
