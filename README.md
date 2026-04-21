@@ -26,26 +26,26 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time"
+      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time&cache_seconds=1"
       media="(prefers-color-scheme: dark)">
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time"
+      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time&cache_seconds=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img 
-      src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time" 
+      src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time&cache_seconds=1" 
       height="150"
       width="400"
       alt="wakatime graph">
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1"
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1&cache_seconds=1"
       media="(prefers-color-scheme: dark)">
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1"
+      srcset="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1&show=reviews%2Cprs_merged_percentage&hide=issues%2Cstars%2Ccontribs&number_precision=1&cache_seconds=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img
-      src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1"
+      src="https://github-readme-stats-dourado.vercel.app/api?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&show_icons=true&text_bold=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1&show=reviews,prs_merged_percentage&hide=issues,stars,contribs&number_precision=1&cache_seconds=1"
       height="150"
       width="400"
       alt="stats graph">
@@ -76,13 +76,13 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true&cache_seconds=1"
       media="(prefers-color-scheme: dark)">
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true&cache_seconds=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img 
-      src="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-dourado.vercel.app/api/top-langs?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=6&hide=java&include_all_commits=true&count_private=true&cache_seconds=1"
       height="150" 
       width="400"
       alt="languages graph">
