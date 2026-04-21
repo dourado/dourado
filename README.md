@@ -26,13 +26,13 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time&cache_seconds=1"
+      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_dark&hide_title=true&hide_border=true&layout=compact&langs_count=8&range=all_time&cache_seconds=1"
       media="(prefers-color-scheme: dark)">
     <source
-      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time&cache_seconds=1"
+      srcset="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=8&range=all_time&cache_seconds=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
     <img 
-      src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=10&range=all_time&cache_seconds=1" 
+      src="https://github-readme-stats-dourado.vercel.app/api/wakatime?username=dourado&theme=dracula_light&hide_title=true&hide_border=true&layout=compact&langs_count=8&range=all_time&cache_seconds=1" 
       height="150"
       width="400"
       alt="wakatime graph">
