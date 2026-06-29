@@ -9,3 +9,7 @@ updates:
     directory: "/" # repo root; Dependabot scans .github/workflows
     schedule:
       interval: "weekly"
+    commit-message:
+      prefix: ci(dependabot)
+    assignees:
+      - "dourado"
