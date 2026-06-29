@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions" # workflows under .github/workflows
-    directory: "/" # Location of package manifests
+    directory: "/" # repo root; Dependabot scans .github/workflows
     schedule:
       interval: "weekly"
