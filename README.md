@@ -102,6 +102,7 @@
       <img 
         src="https://raw.githubusercontent.com/dourado/dourado/main/src/today.png"
         height="40">
+    </picture>
   </a>
   <a href="https://stackoverflow.com/users/15846522/dourado" target="__blank">
     <picture>
