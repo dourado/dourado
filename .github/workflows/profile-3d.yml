@@ -41,7 +41,7 @@ jobs:
             echo "Contents of profile-3d directory:"
             ls -la output-branch/profile-3d/
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
             target_branch: output
             build_dir: output-branch
