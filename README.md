@@ -68,7 +68,16 @@
 <div align="center">
   <img height="170" align="middle" src="https://tenor.com/view/quero-cafe-interview-gif-6252342.gif">
   <a href="https://open.spotify.com/user/12152431662?si=0ccf86137e4f4b6d" target="__blank">
-    <img height="170" align="middle" src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&theme=novatorem">
+    <picture>
+      <source
+        srcset="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&theme=spotify-embed&background_color=transparent&mode=dark"
+        media="(prefers-color-scheme: dark)">
+      <source
+        srcset="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&theme=spotify-embed&background_color=transparent&mode=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <img height="170" align="middle"
+        src="https://dourado-spotify-github-profile.vercel.app/api/view?uid=12152431662&theme=spotify-embed&background_color=transparent&mode=light">
+    </picture>
   </a>
 </div>
 
